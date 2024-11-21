@@ -1,19 +1,12 @@
 <template>
-
   <section class="container">
-
     <div class="section-grid">
-      
       <div class="title">
         <h1> Desserts </h1>
       </div>
-  
       <ProductCard />
-  
     </div>
-  
   </section>
-
 </template>
 
 <script>

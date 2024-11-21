@@ -14,7 +14,6 @@
     <span class="category"> {{ product.category }} </span>
     <h2> {{ product.name }} </h2>
     <span class="price"> R$ {{ product.price }} </span>
-  
   </section>
 </template>
 
